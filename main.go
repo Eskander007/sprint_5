@@ -246,7 +246,7 @@ func main() {
 			TrainingType: "Бег",
 			Action:       5000,
 			LenStep:      LenStep,
-			Duration:     30 * time.Minute,
+			Duration:     0 * time.Minute,
 			Weight:       85,
 		},
 	}
